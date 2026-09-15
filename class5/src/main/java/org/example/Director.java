@@ -6,6 +6,7 @@ public class Director {
         Instrumento[] instrumentos = {
                 new Guitarra(),
                 new Piano(),
+                new Bateria()
         };
 
         Orquesta tocarOrquesta = new Orquesta();
